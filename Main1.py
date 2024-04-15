@@ -3,5 +3,5 @@ def Add(a,b):
 def Display():
   print("Addition")
 
-if __name__='__main__':
+if __name__=='__main__':
   Display()
