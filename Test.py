@@ -3,5 +3,5 @@ def TestAdd():
   assert Add(3,4)==7
   print("Function failed")
 
-if __name__='__main__':
+if __name__=='__main__':
   TestAdd()
